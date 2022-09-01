@@ -1,0 +1,18 @@
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\Taller15\Logica\bin\Debug\Logica.dll
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\Taller15\Logica\bin\Debug\Logica.pdb
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\Taller15\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\Taller15\Logica\obj\Debug\Logica.dll
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\Taller15\Logica\obj\Debug\Logica.pdb
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\Taller15\Logica\bin\Debug\Datos.dll
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\Taller15\Logica\bin\Debug\Datos.pdb
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\Taller15\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\Taller15\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\HectorR\Desktop\Taller15\Logica\bin\Debug\Logica.dll
+C:\Users\HectorR\Desktop\Taller15\Logica\bin\Debug\Logica.pdb
+C:\Users\HectorR\Desktop\Taller15\Logica\bin\Debug\Datos.dll
+C:\Users\HectorR\Desktop\Taller15\Logica\bin\Debug\Datos.pdb
+C:\Users\HectorR\Desktop\Taller15\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\HectorR\Desktop\Taller15\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\HectorR\Desktop\Taller15\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\HectorR\Desktop\Taller15\Logica\obj\Debug\Logica.dll
+C:\Users\HectorR\Desktop\Taller15\Logica\obj\Debug\Logica.pdb
